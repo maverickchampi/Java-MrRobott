@@ -1,5 +1,5 @@
 
-*****NOTAS : V 2.0*****
+*****NOTAS : V 1.0*****
 
 -La base de datos se encuentra en el archivo mr_robot.sql para la facilidad de usarla además de que tiene datos preescritos.
 -Patrón dao trabajado, se podrá adaptar sin ningún problema a cualquier base de datos, actualmente trabaja con MySql5 a través de XAMPP.
@@ -9,7 +9,7 @@
 
 By Maverick 26-10-2020, 12:56 pm
 
-*****NOTAS : V 1.0*****
+*****NOTAS : V 0.5*****
 
 -Para su funcionamiento necesita activar la Base de Datos a través de Xampp.
 -La Base de Datos permanecera hasta donde pueda existir.
