@@ -7,7 +7,6 @@
 -Fallo en la creación de reportes PDF arreglado.
 -Interfaces gráficas mejoradas, y código optimizado.
 
-By Maverick 26-10-2020, 12:56 pm
 
 *****NOTAS : V 0.5*****
 
@@ -19,7 +18,6 @@ se encuentra en /ProyectoFinal/src/img/banner.jpg, en caso de cambiar la direcci
 los códigos internos.
 
 -Disfrute :D
-By Maverick 10-08-2019, 12:20 am
 
 --- BASE DE DATOS -- Creada por Xampp
 
