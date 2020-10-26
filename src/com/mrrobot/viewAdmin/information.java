@@ -39,9 +39,9 @@ public class information extends JDialog {
 	public information(JFrame frame, boolean modal) {
 		super(frame, modal);
 		try {
-			setTitle("Informaci髇 - Sesi髇 de " + Sesion.getSesion().getUser().getNick());
+			setTitle("Informaci贸n - Sesi贸n de " + Sesion.getSesion().getUser().getNick());
 		} catch (Exception e) {
-			setTitle("Informaci髇 - Sesi髇 Prueba");
+			setTitle("Informaci贸n - Sesi贸n Prueba");
 		}
 
 		setIconImage(Toolkit.getDefaultToolkit().getImage(index.class.getResource("/com/mrrobot/images/icono.png")));
@@ -76,7 +76,7 @@ public class information extends JDialog {
 			contentPanel.add(btnVolver);
 		}
 		{
-			lblBy = new JLabel("<html><center>By 10/08/2019 - 12:20 am\r\nCreated by Maverick \u00A9</center></html>");
+			lblBy = new JLabel("<html><center>By 26/10/2020 - 12:56 pm\r\nCreated by Maverick \u00A9</center></html>");
 			lblBy.setForeground(Color.DARK_GRAY);
 			lblBy.setFont(new Font("Tahoma", Font.PLAIN, 16));
 			lblBy.setHorizontalAlignment(SwingConstants.CENTER);
