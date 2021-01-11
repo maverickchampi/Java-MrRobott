@@ -7,6 +7,7 @@
 -Fallo en la creación de reportes PDF arreglado.
 -Interfaces gráficas mejoradas, y código optimizado.
 
+-Los datos que se usaron son referenciales, si desea probar el cambio de correo o contraseña debera usar datos reales para la verificación.
 
 *****NOTAS : V 0.5*****
 

@@ -35,7 +35,7 @@ DateDevice          DATE
 
 -- Ingresando datos
 -- Admin
-insert into usuarios values('0','Steffano Fernandez','zero19.cr@gmail.com','988568325','ZERO','zero',true,0,'Steffano Fernandez');
+insert into usuarios values('0','Steffano Fernandez','steffano@gmail.com','988568325','ZERO','zero',true,0,'Steffano Fernandez');
 insert into usuarios values('0','Marcos Castillo','marcoscastillo@mrrobot.com','987654321','MARQUITOS','marcos',true,0,'Steffano Fernandez');
 insert into usuarios values('0','Fernanda Gutierrez','fergutierrez@mrrobot.com','986862001','Fernanda','gutierres',true,0,'Steffano Fernandez');
 -- Capturista
